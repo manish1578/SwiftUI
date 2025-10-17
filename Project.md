@@ -1,16 +1,19 @@
 ##Project Name
-1. Color Mixer
+
+1. SwiftUI Color Mixer
 
 
 
 
 
 ##Project Description
-1.Use three slider with three switch to set the view color
+
+1.Use three sliders, each paired with a switch, to control the red, green, and blue components of the view’s color.
 
 
 
 
 
 ##Features
-1.slider disable switch for read green and blue 
+
+1. Switch to enable or disable sliders for red, green, and blue.
