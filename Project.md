@@ -6,11 +6,11 @@
 
 
 ##Project Description
-Use three slider with three switch to set the view color
+1.Use three slider with three switch to set the view color
 
 
 
 
 
 ##Features
-slider disable switch for read green and blue 
+1.slider disable switch for read green and blue 
